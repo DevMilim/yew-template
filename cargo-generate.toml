@@ -1,4 +1,4 @@
 [template]
 include = ["**/*"]
-exclide = ["public/**"]
+exclude = ["public/**"]
 [placeholders]
