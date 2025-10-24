@@ -1,3 +1,4 @@
 [template]
+include = ["index.html"]
 exclude = ["public/**"]
 [placeholders]
