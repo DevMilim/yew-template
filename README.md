@@ -4,6 +4,7 @@
 
 ```sh
 # Builds the project and opens it in a new browser tab. Auto-reloads when the project changes.
+npm install
 trunk serve
 ```
 

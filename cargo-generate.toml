@@ -1,0 +1,4 @@
+[template]
+include = ["**/*"]
+[placeholders]
+crate_name = { prompt = "Nome da crate", default = "app" }
