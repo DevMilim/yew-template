@@ -1,5 +1,3 @@
 [template]
-include = ["**/*"]
 exclude = ["public/**"]
-ignore = ["public/**"]
 [placeholders]
