@@ -1,4 +1,4 @@
 [template]
-include = ["index.html", "Cargo.toml"]
+include = ["Cargo.toml"]
 exclude = ["public/**"]
 [placeholders]
