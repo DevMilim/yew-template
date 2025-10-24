@@ -17,4 +17,4 @@ node_modules
 /wasm-pack.log
 .cache
 package-lock.json
-styles.css
+public/styles.css
