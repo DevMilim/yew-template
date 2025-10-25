@@ -1,7 +1,7 @@
 use yew::prelude::*;
 use yew_router::prelude::*;
 
-use crate::app::init::InitPage;
+use crate::views::init::InitPage;
 
 pub mod init;
 
