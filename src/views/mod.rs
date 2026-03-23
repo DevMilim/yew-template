@@ -21,8 +21,8 @@ pub fn switch(routes: AppRoute) -> Html {
     }
 }
 
-#[function_component(App)]
-pub fn app() -> Html {
+#[component]
+pub fn App() -> Html {
     html! {
         <BrowserRouter>
             <div class="flex min-h-screen flex-col">
