@@ -3,7 +3,7 @@ target = "./index.html"
 filehash = false
 
 [watch]
-ignore = ["node_modules", "public"]
+ignore = ["node_modules"]
 
 [serve]
 port = 3000
